@@ -1,0 +1,82 @@
+.header {
+    text-align: center;
+    color: white;
+    top: 0;
+}
+.first {
+    background: url(../Bootstrap/Images/Header.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 340px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header_image {
+    width: 100%;
+    background-size: cover;
+    display: flex;
+}
+.header_text {
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    z-index: 111;
+}
+.header_text2 {
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.first_button {
+    width: 110px;
+    background-color: orange;
+    border: solid 2px orange;
+    border-radius: 3px;
+}
+.second_header {
+    text-align: center;
+    color: #086390;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-text {
+    color: #086390;
+    text-align: center;
+}
+.card {
+    display: inline-block;
+    margin-left: 9%;
+    margin-top: 4%;
+    border: 0cm;
+}
+.nav-item {
+    text-align: center;
+    margin-top: 4%;
+    margin-left: 5%;
+}
+
+.card-title {
+    color: #086390;
+    font-size: 30px;
+    text-align: center;
+}
+
+.button2 {
+    text-align: center;
+    width: 10%;
+    margin-left: 50%;
+}
+.card2 {
+  margin: 0 auto;
+}
+.done {
+    background-color:#80808029;
+}
+.last-images {
+    margin-left: 20%;
+}
